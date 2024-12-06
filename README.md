@@ -34,6 +34,7 @@
 
 I've participated in [Advent of Code](https://adventofcode.com/) every year and completed all puzzles. 
 
+- [2024 with Kotlin](https://github.com/komu/advent-of-code-2024-kotlin)
 - [2023 polyglot](https://github.com/komu/advent-of-code-2023-polyglot) - different language for each day
 - [2023 with Kotlin](https://github.com/komu/advent-of-code-2023-kotlin)
 - [2022 with Rust](https://github.com/komu/advent-of-code-2022)
